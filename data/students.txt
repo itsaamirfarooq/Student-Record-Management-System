@@ -1,0 +1,7 @@
+cs120212060|aamir farooq|muhammad farooq|Male|Computer Science|8|3.83|data\photos\1766490334806_itsaamirfarooq.jpeg
+cs120212050|Ahmed|Muhammad Aslam|Male|Software Engineering|3|3.21|data\photos\1766490334806_itsaamirfarooq.jpeg
+cs120212040|Hamza|Abdul Qadir|Male|Artificial Intelligence|8|3.89|data\photos\1766490334806_itsaamirfarooq.jpeg
+cs120212030|Salman|Muhammad Shafiq|Male|Cyber Security|2|2.91|data\photos\1766490334806_itsaamirfarooq.jpeg
+cs120212020|Maryam|Abdul Wahid|Female|Computer Science|7|3.92|data\photos\1766490334806_itsaamirfarooq.jpeg
+cs120212010|Noor|Muhammad Imran|Female|Software Engineering|5|2.74|data\photos\1766490334806_itsaamirfarooq.jpeg
+cs120212005|Bilal|Muhammad Iqbal|Male|Software Engineering|1|1.98|data\photos\1766490334806_itsaamirfarooq.jpeg
