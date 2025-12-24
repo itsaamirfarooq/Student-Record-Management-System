@@ -14,7 +14,8 @@ The Student Record Management System (SRMS) provides an easy-to-use graphical in
 The system supports CRUD operations, real-time search, sorting, validations, dashboard analytics, and data export features.
 ________________________________________
 # 🖼️ Project Screenshots
- ![Dashboard](screenshots/dashboard.png)
+ <img width="1086" height="583" alt="dashboard" src="https://github.com/user-attachments/assets/95de3290-b643-46d2-9424-9915016f9e44" />
+
 ________________________________________
 # ✨ Features
 🔹 Core Features
